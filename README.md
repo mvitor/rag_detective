@@ -591,3 +591,5 @@ You can view the progress of the deployment in GitHub under the Actions tab:
 ![](./img/github-actions.jpg)
 
 For more information and detailed instructions, see [github-actions.md.](./docs/github-actions.md)
+
+https://dswharshit.medium.com/roadmap-to-become-an-ai-engineer-roadmap-6d9558d970cf
